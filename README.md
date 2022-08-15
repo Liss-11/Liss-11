@@ -1,25 +1,22 @@
-### Hi there 👋
+![Image text](Vector.jpg)
 
-<!--
-**Liss-11/Liss-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 style="color:#AD82FC" align=center>Welcome to Alissia's GitHub!</h1>
 
-Here are some ideas to get you started:
+<h3>About Me</h3>
+<br>
+<p style="font-size:12px">I have studied Angular at ITAcademy and I am currently looking for a job
+<br><br>
+I'm a 42Telefonica_Barcelona Student
+</p>
+<br>
+<p align=center style="color:pink"><b><em>I love programming!<em><b></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
 
-📊 My personal stats
+![My stats](https://github-readme-stats.vercel.app/api?username=Liss-11&show_icons=true&theme=merko)
 
-![My stats](https://github-readme-stats.vercel.app/api?username=Liss-11&show_icons=true&theme=gruvbox)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Liss-11&theme=blue-green)]
+<br>
 
-⾔ My langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liss-11&layout=compact&theme=chartreuse-dark&title_color=A1CF70&text_color=54B08A)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liss-11&layout=compact&theme=dracula)
+
