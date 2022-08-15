@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 📊 My personal stats
 
-![Gogiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gogiu23&show_icons=true&theme=gruvbox)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gogiu23&theme=blue-green)]
+![My stats](https://github-readme-stats.vercel.app/api?username=Liss-11&show_icons=true&theme=gruvbox)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Liss-11&theme=blue-green)]
 
 ⾔ My langs
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gogiu23&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liss-11&layout=compact&theme=dracula)
