@@ -4,12 +4,12 @@
 
 <h3>About Me</h3>
 <br>
-<p style="font-size:12px">I have studied Angular at ITAcademy and I am currently looking for a job
+<p style="font-size:12px">Junior Java Developer [Ironhack]</p>
 <br><br>
-I'm a 42Telefonica_Barcelona Student
-</p>
+<p style="font-size:12px">I have studied Angular [ITAcademy]</p>
+<br><br>
+<p style="font-size:12px">Student of 42 Barcelona</p>
 <br>
-<p align=center style="color:pink"><b><em>I love programming!<em><b></p>
 
 <br>
 
