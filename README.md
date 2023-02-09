@@ -5,10 +5,8 @@
 <h3>About Me</h3>
 <br>
 <p style="font-size:12px">Junior Java Developer [Ironhack]</p>
-<br><br>
 <p style="font-size:12px">I have studied Angular [ITAcademy]</p>
-<br><br>
-<p style="font-size:12px">Student of 42 Barcelona</p>
+<p style="font-size:12px">Student of 42 Barcelona </p>
 <br>
 
 <br>
