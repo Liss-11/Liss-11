@@ -4,9 +4,11 @@
 
 <h3>About Me</h3>
 <br>
-<p style="font-size:12px">Junior Java Developer [Ironhack]</p>
-<p style="font-size:12px">I have studied Angular [ITAcademy]</p>
-<p style="font-size:12px">Student of 42 Barcelona </p>
+<div>My passion for logical reasoning has led me to the field of programming, where I have discovered countless opportunities for personal and professional growth. I am eager to expand my skill set and continuously seek out new challenges and opportunities to learn. I am not afraid of hard work and remain open to learn new technologies and skills.</div>
+<br>
+<p style="font-size:12px">Back-End Java Developer [Ironhack]</p>
+<p style="font-size:12px">Front-EndAngular [ITAcademy]</p>
+<p style="font-size:12px">42_Barcelona Student </p>
 <br>
 
 <br>
